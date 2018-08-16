@@ -1,0 +1,7 @@
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\chamus.gilbert\source\repos\Demo\Demo\obj\Debug\Demo.pdb
